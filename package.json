@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/FelixGeelhaar/udacity-project-3-weahter-journal-app#readme",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.3",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "node-fetch": "^3.2.10"
   }
 }
